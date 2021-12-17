@@ -1,0 +1,10 @@
+/Users/victor/Dropbox/projects/development/c#/mslearn-dotnet-files/stores/sales.json: 88.88
+/Users/victor/Dropbox/projects/development/c#/mslearn-dotnet-files/stores/204/sales.json: 88.88
+/Users/victor/Dropbox/projects/development/c#/mslearn-dotnet-files/stores/204/salestotals.json: 0
+/Users/victor/Dropbox/projects/development/c#/mslearn-dotnet-files/stores/203/sales.json: 99
+/Users/victor/Dropbox/projects/development/c#/mslearn-dotnet-files/stores/203/salestotals.json: 0
+/Users/victor/Dropbox/projects/development/c#/mslearn-dotnet-files/stores/202/sales.json: 1234.22
+/Users/victor/Dropbox/projects/development/c#/mslearn-dotnet-files/stores/202/salestotals.json: 0
+/Users/victor/Dropbox/projects/development/c#/mslearn-dotnet-files/stores/201/sales.json: 501.22
+/Users/victor/Dropbox/projects/development/c#/mslearn-dotnet-files/stores/201/salestotals.json: 0
+Total Sales: 2012.2
